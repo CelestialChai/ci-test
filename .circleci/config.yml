@@ -10,4 +10,4 @@ jobs:
 workflows:
   hello-world-workflow:
     jobs:
-      - hello-world-again
+      - hello-world-job
